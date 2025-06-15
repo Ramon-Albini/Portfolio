@@ -149,5 +149,5 @@ Obs: o projeto irá rodar na porta padrão 8080.
 --- 
 
 ## 🚀 Sobre o autor
-Trabalho feito por Nani (Ramon Albini Vieira) com apoio e consultoria ninja do ChatGPT-senpai 🍥
+Trabalho feito por Nani (Ramon Albini Vieira)
 Disciplina: Programação Avançada 🖥️
