@@ -127,10 +127,16 @@ Trabalho prático da disciplina, com foco em:
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repo.git
+
+---
+
 2️⃣ Navegue até a pasta:
 
 ```bash
 cd teste_spring
+
+--- 
+
 3️⃣ Rode o projeto (pode ser via IDE, Spring Boot Dashboard, ou terminal):
 
 ```bash
