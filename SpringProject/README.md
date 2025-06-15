@@ -127,6 +127,7 @@ Trabalho prático da disciplina, com foco em:
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repo.git
+```
 
 ---
 
@@ -134,6 +135,7 @@ git clone https://github.com/seu-usuario/seu-repo.git
 
 ```bash
 cd teste_spring
+```
 
 --- 
 
@@ -142,6 +144,7 @@ cd teste_spring
 ```bash
 ./mvnw spring-boot:run
 Obs: o projeto irá rodar na porta padrão 8080.
+```
 
 --- 
 
