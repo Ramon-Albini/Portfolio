@@ -20,6 +20,13 @@ API RESTful construída com Spring Boot, voltada para o gerenciamento de persona
 
 ---
 
+🏫 API Acadêmica - Spring Boot
+Sistema RESTful voltado para o gerenciamento de ambiente acadêmico. Permite cadastrar, atualizar e remover alunos, usuários, matérias, notas e faltas. Utiliza Spring Boot, arquitetura em camadas, DTOs e tratamento de exceções. Projeto ideal para consolidar conhecimento em modelagem de dados, relacionamento entre entidades e criação de endpoints bem estruturados.
+
+📁 Diretório: [`https://github.com/Ramon-Albini/Grupo-3`](./AcademicAPI)
+
+
+
 🎯 **Tecnologias utilizadas em ambos os projetos:**
 - Java 17+
 - Maven
